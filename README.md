@@ -1,5 +1,5 @@
 # drksd-privacy-statement
-# Privacy Statement for Publishing Mobile Application (Click Eat)
+# Privacy Statement for Publishing Mobile Application
 
 ## Privacy Policy
 Frederick Castaneda built the Drksd t app as a Free app. This SERVICE is provided by Frederick Castaneda at no cost and is intended for use as is.
